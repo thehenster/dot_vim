@@ -1,3 +1,6 @@
+"" line number gutter
+:set number
+
 "" indent
 set expandtab
 set shiftwidth=2
