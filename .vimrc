@@ -1,3 +1,8 @@
+"" indent
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+
 filetype off
 filetype plugin indent off
 set runtimepath+=~/.vim/golang_vim
